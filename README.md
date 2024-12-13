@@ -1,2 +1,1 @@
-# exame
-Exercicio do exame
+"Ejercicio de Git do exame" 
