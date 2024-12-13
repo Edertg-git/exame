@@ -1,1 +1,3 @@
-"Ejercicio de Git do exame" 
+"Ejercicio de Git do exame"
+
+ - 👋 Hola, soy el usuario @Edertg-git
